@@ -1,5 +1,6 @@
-hoii this is first file
-
-hoi this is lakshman
-<h1> this is heading<h1>
-<h2> hoii this is gonna be another thing<h2>
+<html> 
+<head><head>
+<body>
+<h1> this is used to learn git</h1>
+</body>
+</html>
